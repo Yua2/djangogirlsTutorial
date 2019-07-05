@@ -1,1 +1,7 @@
- py37djianggirls
+ *.pyc
+*~
+__pycache__
+py37djianggirls
+db.sqlite3
+/static
+.DS_Store
